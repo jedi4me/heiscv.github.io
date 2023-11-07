@@ -70,7 +70,6 @@ ul li {
   color: #000;
   font-family: sans-serif;
   font-size: 0.75rem;
-  height: 20px;
 }
 
 header h3{
@@ -85,7 +84,6 @@ header h3{
 
 nav ul li {
   list-style: none;
-  box-sizing: border-box;
   display: inline-block;
   margin: 0 5px;
   background: transparent;
